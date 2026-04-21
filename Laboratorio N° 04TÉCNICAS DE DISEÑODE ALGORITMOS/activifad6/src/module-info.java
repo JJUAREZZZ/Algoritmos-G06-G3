@@ -1,0 +1,2 @@
+module activifad6 {
+}
